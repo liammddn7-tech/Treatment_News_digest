@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://www.psychiatrictimes.com/view/phase-2-topline-results-from-zephyr-trial-ml-007c-ma-for-the-treatment-of-schizophrenia",
+    "title": "Phase 2 Topline Results From ZEPHYR Trial: ML-007C-MA for the Treatment of Schizophrenia",
+    "link": "https://www.psychiatrictimes.com/view/phase-2-topline-results-from-zephyr-trial-ml-007c-ma-for-the-treatment-of-schizophrenia",
+    "source": "Psychiatric Times",
+    "published_at": "2026-07-27T16:56:06+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-07-27T17:21:50.301335+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=17444",
+    "title": "Surviving Suicide Watch in a Missouri Prison",
+    "link": "https://mindsitenews.org/2026/07/27/surviving-suicide-watch-in-jefferson-city-correctional-center/",
+    "source": "MindSite News",
+    "published_at": "2026-07-27T16:07:48+00:00",
+    "summary": "My only saving grace was my friend and mentor, Big Mama.",
+    "topics": [],
+    "first_seen": "2026-07-27T17:21:51.619295+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/preventing-alzheimer-disease-after-brain-injury-targeting-tnf-with-xpro1595",
+    "title": "Preventing Alzheimer Disease After Brain Injury: Targeting TNF With XPro1595",
+    "link": "https://www.psychiatrictimes.com/view/preventing-alzheimer-disease-after-brain-injury-targeting-tnf-with-xpro1595",
+    "source": "Psychiatric Times",
+    "published_at": "2026-07-27T15:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-07-27T17:21:50.301379+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/when-brain-injury-and-mental-health-look-the-same-the-diagnostic-challenge-of-concussion-recovery",
+    "title": "When Brain Injury and Mental Health Look the Same: The Diagnostic Challenge of Concussion Recovery",
+    "link": "https://www.psychiatrictimes.com/view/when-brain-injury-and-mental-health-look-the-same-the-diagnostic-challenge-of-concussion-recovery",
+    "source": "Psychiatric Times",
+    "published_at": "2026-07-27T13:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-07-27T17:21:50.301416+00:00"
+  },
+  {
     "id": "https://www.psychiatrictimes.com/view/fda-approves-centanafadine-for-adhd-in-children-adolescents-and-adults",
     "title": "FDA Approves Centanafadine for ADHD in Children, Adolescents, and Adults",
     "link": "https://www.psychiatrictimes.com/view/fda-approves-centanafadine-for-adhd-in-children-adolescents-and-adults",
@@ -78,6 +120,18 @@
       "deals-and-ma"
     ],
     "first_seen": "2026-07-27T03:12:24.207665+00:00"
+  },
+  {
+    "id": "https://www.healthcaredive.com/news/fda-names-dexcom-as-first-participant-in-digital-health-pilot/826215/",
+    "title": "FDA names Dexcom as first participant in digital health pilot",
+    "link": "https://www.healthcaredive.com/news/fda-names-dexcom-as-first-participant-in-digital-health-pilot/826215/",
+    "source": "Healthcare Dive",
+    "published_at": "2026-07-23T17:46:35+00:00",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BmE9ItavOTNSO-kMd9Dg7VvyW5oJlTnTvFTTtUz7yks/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUFA4MEVNLmpwZw==.webp\" /></div></figure><p>Selected devices will be exempt from certain pre-market requirements while manufacturers collect real-world data through Medicare.</p>",
+    "topics": [
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-07-27T17:21:52.934977+00:00"
   },
   {
     "id": "https://www.psychiatrictimes.com/view/centanafadine-s-route-to-fda-review-a-clinical-path-of-the-adhd-medication",
