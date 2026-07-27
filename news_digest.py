@@ -10,6 +10,7 @@ No API key required -- these are public RSS feeds.
 """
 
 import json
+import re
 import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -89,6 +90,17 @@ def save_json(path, data):
     path.write_text(json.dumps(data, indent=2))
 
 
+def clean_text(text):
+    """Strip literal CDATA wrapper text that some malformed feeds leak
+    through as part of the actual title/summary content (seen on
+    Psychiatric Times, among others)."""
+    if not text:
+        return text
+    text = re.sub(r"^\s*<!\[CDATA\[", "", text)
+    text = re.sub(r"\]\]>\s*$", "", text)
+    return text.strip()
+
+
 def parse_published(entry):
     for key in ("published", "updated"):
         val = entry.get(key)
@@ -121,19 +133,19 @@ def fetch_feed(feed_conf):
 
 
 def normalize(entry, feed_conf):
-    title = (
+    title = clean_text(
         entry.get("title")
         or entry.get("title_detail", {}).get("value")
         or ""
-    ).strip()
+    )
 
-    summary = (
+    summary = clean_text(
         entry.get("summary")
         or entry.get("description")
         or entry.get("summary_detail", {}).get("value")
         or (entry.get("content", [{}])[0].get("value") if entry.get("content") else None)
         or ""
-    ).strip()
+    )
 
     if not title:
         print(f"[warn] empty title from {feed_conf['name']!r}. "
