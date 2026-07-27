@@ -121,10 +121,26 @@ def fetch_feed(feed_conf):
 
 
 def normalize(entry, feed_conf):
-    title = entry.get("title", "") or ""
-    summary = entry.get("summary", "") or entry.get("description", "") or ""
-    combined_text = f"{title} {summary}"
+    title = (
+        entry.get("title")
+        or entry.get("title_detail", {}).get("value")
+        or ""
+    ).strip()
 
+    summary = (
+        entry.get("summary")
+        or entry.get("description")
+        or entry.get("summary_detail", {}).get("value")
+        or (entry.get("content", [{}])[0].get("value") if entry.get("content") else None)
+        or ""
+    ).strip()
+
+    if not title:
+        print(f"[warn] empty title from {feed_conf['name']!r}. "
+              f"Available entry keys: {list(entry.keys())} | "
+              f"link: {entry.get('link')}")
+
+    combined_text = f"{title} {summary}"
     topics = tag_topics(combined_text)
 
     if feed_conf["requires_filter"] and not topics:
@@ -132,7 +148,7 @@ def normalize(entry, feed_conf):
 
     return {
         "id": entry.get("id") or entry.get("link"),
-        "title": title,
+        "title": title or "(untitled -- see apply link)",
         "link": entry.get("link"),
         "source": feed_conf["name"],
         "published_at": parse_published(entry),
