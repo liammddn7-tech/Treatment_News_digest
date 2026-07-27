@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Private Equity-Backed Group Acquires Regional SUD Treatment Chain",
+    "link": "https://example.com/sample-1",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-07-25T12:00:00+00:00",
+    "summary": "A multi-state addiction treatment provider was acquired this week, continuing a wave of consolidation in the substance use disorder treatment space.",
+    "topics": ["substance-use-disorder", "deals-and-ma"],
+    "first_seen": "2026-07-25T12:00:00+00:00"
+  },
+  {
+    "id": "sample-2",
+    "title": "New CMS Rule Could Expand Coverage for Gambling Disorder Treatment",
+    "link": "https://example.com/sample-2",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-07-24T09:00:00+00:00",
+    "summary": "A proposed CMS rule would broaden reimbursement pathways for gambling disorder treatment programs, a historically underfunded corner of behavioral health.",
+    "topics": ["gambling", "policy-and-regulation"],
+    "first_seen": "2026-07-24T09:00:00+00:00"
+  },
+  {
+    "id": "sample-3",
+    "title": "Eating Disorder Startup Expands Virtual Intensive Outpatient Program",
+    "link": "https://example.com/sample-3",
+    "source": "MindSite News",
+    "published_at": "2026-07-23T15:30:00+00:00",
+    "summary": "The digital-first eating disorder treatment company announced expansion of its virtual IOP into six new states.",
+    "topics": ["eating-disorder"],
+    "first_seen": "2026-07-23T15:30:00+00:00"
+  }
+]

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Field Pulse — Behavioral Health Industry Digest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink: #16211C;
+    --panel: #1E2C24;
+    --card: #24352B;
+    --sage: #7FA88E;
+    --gold: #D3A85C;
+    --warm-white: #F1EDE3;
+    --muted: #8FA097;
+    --line: rgba(241,237,227,0.10);
+  }
+  * { box-sizing: border-box; }
+  html,body{ margin:0; padding:0; background:var(--ink); color:var(--warm-white); font-family:'IBM Plex Sans', sans-serif; }
+  a{ color:inherit; }
+  .wrap{ max-width: 920px; margin:0 auto; padding: 48px 24px 96px; }
+
+  .hero{ display:flex; align-items:center; gap:32px; margin-bottom:40px; flex-wrap:wrap; }
+  h1{ font-family:'Fraunces', serif; font-weight:600; font-size:clamp(28px,4vw,38px); margin:0 0 10px; letter-spacing:-0.01em; line-height:1.05; }
+  .hero p{ margin:0; color:var(--muted); font-size:15px; max-width:50ch; line-height:1.5; }
+  .hero .accent{ color:var(--gold); font-style:italic; font-family:'Fraunces', serif; }
+
+  .stats{ display:flex; gap:28px; margin-bottom:32px; padding-bottom:26px; border-bottom:1px solid var(--line); flex-wrap:wrap; }
+  .stat .num{ font-family:'Fraunces', serif; font-size:28px; font-weight:600; color:var(--gold); line-height:1; }
+  .stat .label{ font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:0.08em; margin-top:6px; }
+
+  .filters{ display:flex; gap:8px; margin-bottom:26px; flex-wrap:wrap; }
+  .filter-btn{ background:transparent; border:1px solid var(--line); color:var(--muted); padding:8px 16px; border-radius:100px; font-size:13px; font-family:inherit; cursor:pointer; transition:all .15s ease; }
+  .filter-btn:hover{ border-color:var(--gold); color:var(--warm-white); }
+  .filter-btn.active{ background:var(--gold); border-color:var(--gold); color:var(--ink); font-weight:600; }
+
+  .article{ background:var(--card); border:1px solid var(--line); border-radius:10px; padding:20px 22px; margin-bottom:12px; }
+  .art-source{ font-family:'IBM Plex Mono', monospace; font-size:11px; color:var(--sage); text-transform:uppercase; letter-spacing:0.06em; margin-bottom:8px; }
+  .art-title{ font-family:'Fraunces', serif; font-size:18px; font-weight:600; margin:0 0 8px; line-height:1.3; }
+  .art-title a{ text-decoration:none; }
+  .art-title a:hover{ text-decoration:underline; text-decoration-color:var(--gold); }
+  .art-meta{ font-size:12px; color:var(--muted); margin-bottom:10px; }
+  .topic-tags{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
+  .topic-tag{ font-size:11px; padding:3px 10px; border-radius:100px; font-family:'IBM Plex Mono', monospace; background:rgba(211,168,92,0.12); color:var(--gold); border:1px solid rgba(211,168,92,0.3); }
+  .summary{ font-size:14px; color:var(--muted); line-height:1.5; margin:0; }
+
+  .empty{ text-align:center; padding:60px 20px; color:var(--muted); }
+  .empty h2{ font-family:'Fraunces', serif; color:var(--warm-white); font-weight:600; }
+  footer{ text-align:center; color:var(--muted); font-size:12px; margin-top:56px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero">
+    <svg width="88" height="88" viewBox="0 0 88 88" style="flex-shrink:0">
+      <circle cx="44" cy="44" r="40" fill="none" stroke="var(--panel)" stroke-width="2"/>
+      <path d="M 8 44 L 26 44 L 32 24 L 40 64 L 48 34 L 54 50 L 60 44 L 80 44"
+            fill="none" stroke="var(--gold)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <div>
+      <h1>Your field, <span class="accent">daily</span></h1>
+      <p>Behavioral health, SUD, eating disorder &amp; gambling treatment news — deals, policy, and industry moves, pulled from trade press automatically each day.</p>
+    </div>
+  </div>
+
+  <div class="stats" id="stats"></div>
+  <div class="filters" id="filters"></div>
+  <div id="articleList"></div>
+
+  <footer>Updated automatically each day via GitHub Actions · Sourced from industry RSS feeds</footer>
+</div>
+
+<script>
+  let ALL = [];
+  let currentFilter = 'all';
+
+  const FILTERS = [
+    { key:'all', label:'All' },
+    { key:'substance-use-disorder', label:'SUD' },
+    { key:'mental-health', label:'Mental Health' },
+    { key:'eating-disorder', label:'Eating Disorder' },
+    { key:'gambling', label:'Gambling' },
+    { key:'deals-and-ma', label:'Deals & M&A' },
+    { key:'policy-and-regulation', label:'Policy' },
+  ];
+
+  function renderStats(articles){
+    const bySource = {};
+    articles.forEach(a => bySource[a.source] = (bySource[a.source]||0)+1);
+    const dealCount = articles.filter(a=>a.topics.includes('deals-and-ma')).length;
+    const stats = [
+      { num: articles.length, label: 'Articles tracked' },
+      { num: Object.keys(bySource).length, label: 'Sources' },
+      { num: dealCount, label: 'Deals & M&A' },
+    ];
+    document.getElementById('stats').innerHTML = stats.map(s=>`
+      <div class="stat"><div class="num">${s.num}</div><div class="label">${s.label}</div></div>
+    `).join('');
+  }
+
+  function renderFilters(){
+    document.getElementById('filters').innerHTML = FILTERS.map(f=>`
+      <button class="filter-btn ${f.key===currentFilter?'active':''}" data-key="${f.key}">${f.label}</button>
+    `).join('');
+    document.querySelectorAll('.filter-btn').forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        currentFilter = btn.dataset.key;
+        renderFilters();
+        renderArticles();
+      });
+    });
+  }
+
+  function applyFilter(articles){
+    if(currentFilter==='all') return articles;
+    return articles.filter(a => a.topics.includes(currentFilter));
+  }
+
+  function fmtDate(iso){
+    if(!iso) return '';
+    const d = new Date(iso);
+    return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+  }
+
+  function renderArticles(){
+    const articles = applyFilter(ALL);
+    const list = document.getElementById('articleList');
+    if(articles.length===0){
+      list.innerHTML = `<div class="empty"><h2>Nothing here yet</h2><p>Try a different filter, or check back after the next run.</p></div>`;
+      return;
+    }
+    list.innerHTML = articles.map(a=>{
+      const tagHtml = a.topics.map(t=>`<span class="topic-tag">${t.replace(/-/g,' ')}</span>`).join('');
+      return `
+        <div class="article">
+          <div class="art-source">${a.source}</div>
+          <h3 class="art-title"><a href="${a.link}" target="_blank" rel="noopener">${a.title}</a></h3>
+          <div class="art-meta">${fmtDate(a.published_at)}</div>
+          ${tagHtml ? `<div class="topic-tags">${tagHtml}</div>` : ''}
+          <p class="summary">${(a.summary||'').replace(/<[^>]*>/g,'')}</p>
+        </div>
+      `;
+    }).join('');
+  }
+
+  fetch('articles.json?_=' + Date.now())
+    .then(r => r.ok ? r.json() : [])
+    .then(data => {
+      ALL = data;
+      renderStats(ALL);
+      renderFilters();
+      renderArticles();
+    })
+    .catch(() => {
+      document.getElementById('articleList').innerHTML =
+        `<div class="empty"><h2>No data yet</h2><p>Run news_digest.py once (or wait for the first scheduled run) to populate articles.json.</p></div>`;
+    });
+</script>
+</body>
+</html>
