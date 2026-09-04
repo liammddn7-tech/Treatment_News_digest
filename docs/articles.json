@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.psychiatrictimes.com/view/podcast-tips-for-treating-sexual-dysfunction-with-anita-h-clayton-md",
+    "title": "Podcast: Tips for Treating Sexual Dysfunction With Anita H. Clayton, MD",
+    "link": "https://www.psychiatrictimes.com/view/podcast-tips-for-treating-sexual-dysfunction-with-anita-h-clayton-md",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-04T14:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-04T14:53:13.765227+00:00"
+  },
+  {
+    "id": "https://www.healthcaredive.com/news/lawmakers-to-subpoena-oracle-execs-as-ehr-project-costs-rise/829671/",
+    "title": "Lawmakers to subpoena Oracle execs as EHR project costs rise",
+    "link": "https://www.healthcaredive.com/news/lawmakers-to-subpoena-oracle-execs-as-ehr-project-costs-rise/829671/",
+    "source": "Healthcare Dive",
+    "published_at": "2026-09-04T13:58:59+00:00",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/nqkMo008YWNaPPSgMxtEcgIojiVuQcMvuUh7dlnjqio/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjQyMjMyMjgxLmpwZw==.webp\" /></div></figure><p>After nearly tripling its contract ceiling with the VA to $27 billion, Congress wants to hear from Oracle&rsquo;s Executive Chairman Larry Ellison and CEO Mike Sicilia about the project&rsquo;s escalating costs and lengthy timeline.</p>",
+    "topics": [
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-09-04T14:53:16.442274+00:00"
+  },
+  {
+    "id": "https://www.healthcaredive.com/news/adena-health-acquires-fairfield-medical-center-after-antitrust-scrutiny/829659/",
+    "title": "Adena Health acquires Fairfield Medical Center after antitrust scrutiny",
+    "link": "https://www.healthcaredive.com/news/adena-health-acquires-fairfield-medical-center-after-antitrust-scrutiny/829659/",
+    "source": "Healthcare Dive",
+    "published_at": "2026-09-04T12:52:56+00:00",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_5_4nT16xU0mDhs0ZW6CNP_hdQd-zdqQlPEwA1773Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwMTU4NDc3LmpwZw==.webp\" /></div></figure><p>Pressured by federal antitrust concerns, Fairfield Medical Center has completed a merger with Adena Health after pivoting from a planned sale to state giant OhioHealth.</p>",
+    "topics": [
+      "deals-and-ma"
+    ],
+    "first_seen": "2026-09-04T14:53:16.442322+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/differentiating-agitation-from-depression-anxiety-and-psychosis",
+    "title": "Differentiating Agitation from Depression, Anxiety, and Psychosis",
+    "link": "https://www.psychiatrictimes.com/view/differentiating-agitation-from-depression-anxiety-and-psychosis",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-04T12:05:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-04T14:53:13.765278+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/agitation-associated-with-dementia-due-to-alzheimer-s-disease-how-common-is-it-and-how-does-it-present-",
+    "title": "Agitation Associated with Dementia Due to Alzheimer\u2019s Disease: How Common Is It, and How Does It Present?",
+    "link": "https://www.psychiatrictimes.com/view/agitation-associated-with-dementia-due-to-alzheimer-s-disease-how-common-is-it-and-how-does-it-present-",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-04T12:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-04T14:53:13.765320+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=17934",
+    "title": "How Football Affects Your Child\u2019s Brain Health",
+    "link": "https://mindsitenews.org/2026/09/03/how-football-affects-your-childs-brain-health/",
+    "source": "MindSite News",
+    "published_at": "2026-09-03T20:50:52+00:00",
+    "summary": "For young football players, what matters is fewer years of contact and fewer hits within those years.",
+    "topics": [],
+    "first_seen": "2026-09-04T14:53:15.225251+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=17929",
+    "title": "Are We Reaching People in Crisis \u2014 or Just Counting the Ones Who Call?",
+    "link": "https://mindsitenews.org/2026/09/03/is-the-988-lifeline-actually-working-what-the-data-shows/",
+    "source": "MindSite News",
+    "published_at": "2026-09-03T20:47:56+00:00",
+    "summary": "Billions were spent on the 988 lifeline, but fewer than 1 in 5 people in crisis use it. Here is what research reveals about the gap in mental health care.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-04T14:53:15.225302+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=17924",
+    "title": "You Cannot Make Football Safe for a Child\u2019s Brain, but You Can Make It Safer",
+    "link": "https://mindsitenews.org/2026/09/03/making-youth-football-safer-brain-injury-risks-cte-facts/",
+    "source": "MindSite News",
+    "published_at": "2026-09-03T20:29:29+00:00",
+    "summary": "Football cannot be made completely safe for a child\u2019s brain, but smart choices can lower the risk. Discover how flag leagues and reduced contact protect youth.",
+    "topics": [],
+    "first_seen": "2026-09-04T14:53:15.225341+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12074",
+    "title": "Meta Settlement Funds Could Be a Boost for Youth Mental Health",
+    "link": "https://bhbusiness.com/2026/09/03/meta-settlement-funds-could-be-a-boost-for-youth-mental-health/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-03T20:05:57+00:00",
+    "summary": "<p>This is an exclusive BHB+ article. Social media has long been criticized for its potential role in the deterioration of children\u2019s and young people\u2019s mental health in the United States. A major settlement in the litigation against Meta (Nasdaq: META) could provide states with funding to begin addressing some of the behavioral health challenges at [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/03/meta-settlement-funds-could-be-a-boost-for-youth-mental-health/\">Meta Settlemen",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-04T14:53:12.516339+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12070",
+    "title": "Hi Rasmus Gets $50M Minority Investment\u00a0from\u00a0Large B2B Software\u00a0Investor",
+    "link": "https://bhbusiness.com/2026/09/03/hi-rasmus-gets-50m-minority-investment-from-large-b2b-software-investor/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-03T19:57:59+00:00",
+    "summary": "<p>Nashville, Tennessee-based applied behavioral analysis (ABA) software platform Hi Rasmus received $50 million in new capital from Updata Partners, a technology-focused growth equity firm. Updata Partners\u2019 general partner Braden Snyder will join Hi Rasmus\u2019 board, but Updata\u2019s minority investment allows Hi Rasmus to retain its leadership team and maintain control over all existing operations. Up [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/03/hi-rasmus-gets-50m-minority-inv",
+    "topics": [
+      "mental-health",
+      "deals-and-ma"
+    ],
+    "first_seen": "2026-09-04T14:53:12.516419+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12068",
+    "title": "ABA Centers of America at the Center of Federal Criminal Investigation",
+    "link": "https://bhbusiness.com/2026/09/03/aba-centers-of-america-at-the-center-of-federal-criminal-investigation/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-03T18:56:56+00:00",
+    "summary": "<p>ABA Centers of America is at the center of an ongoing federal criminal investigation into allegations of money laundering as well as billing, healthcare and wire fraud, according to a recently unsealed warrant application. The documents, first spotted by Reinforcement &#38; Ruin, detail that this is the second time federal investigators have gone to a [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/03/aba-centers-of-america-at-the-center-of-federal-criminal-investigation/\">A",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-04T14:53:12.516479+00:00"
+  },
+  {
     "id": "https://www.psychiatrictimes.com/view/repurposing-dopamine-agonist-pramipexole-for-disabling-anhedonia",
     "title": "Repurposing Dopamine Agonist Pramipexole for Disabling Anhedonia",
     "link": "https://www.psychiatrictimes.com/view/repurposing-dopamine-agonist-pramipexole-for-disabling-anhedonia",
@@ -2223,42 +2348,6 @@
     "first_seen": "2026-08-05T16:55:55.074585+00:00"
   },
   {
-    "id": "https://www.psychiatrictimes.com/view/effective-prescription-of-exercise-for-the-treatment-of-depression-and-anxiety",
-    "title": "Effective Prescription of Exercise for the Treatment of Depression and Anxiety",
-    "link": "https://www.psychiatrictimes.com/view/effective-prescription-of-exercise-for-the-treatment-of-depression-and-anxiety",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-04T15:46:32+00:00",
-    "summary": "",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-08-04T17:15:04.286028+00:00"
-  },
-  {
-    "id": "https://www.healthcaredive.com/news/hackensack-meridian-health-first-earn-joint-commissions-responsible-ai/826955/",
-    "title": "Hackensack Meridian Health first to earn Joint Commission\u2019s responsible health AI certification",
-    "link": "https://www.healthcaredive.com/news/hackensack-meridian-health-first-earn-joint-commissions-responsible-ai/826955/",
-    "source": "Healthcare Dive",
-    "published_at": "2026-08-04T15:46:00+00:00",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rnZNGbn13XtWEI9eiootqrhWQ3lRXXxAaSzsQPrb_1s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyODk1NjEyLmpwZw==.webp\" /></div></figure><p>Private consortiums have been attempting to put guardrails around the use of AI as federal regulations lag. HMH has been refining its AI governance structure for years, its medical informatics chief said.</p>",
-    "topics": [
-      "policy-and-regulation"
-    ],
-    "first_seen": "2026-08-04T17:15:06.722380+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/bringing-wearable-data-into-psychiatric-care-amae-health-partners-with-google-health-enterprise-to-improve-outcomes",
-    "title": "Bringing Wearable Data Into Psychiatric Care: Amae Health Partners With Google Health Enterprise to Improve Outcomes",
-    "link": "https://www.psychiatrictimes.com/view/bringing-wearable-data-into-psychiatric-care-amae-health-partners-with-google-health-enterprise-to-improve-outcomes",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-04T13:38:51+00:00",
-    "summary": "",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-08-04T17:15:04.286063+00:00"
-  },
-  {
     "id": "https://www.healthcaredive.com/news/hca-texas-medclinic-acquisition-urgent-care/826917/",
     "title": "HCA nabs 40 urgent care clinics in Texas acquisition",
     "link": "https://www.healthcaredive.com/news/hca-texas-medclinic-acquisition-urgent-care/826917/",
@@ -2269,39 +2358,5 @@
       "deals-and-ma"
     ],
     "first_seen": "2026-08-05T16:55:57.410816+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=11811",
-    "title": "What New, Smaller\u00a0Neuromodulation Devices Mean for Traditional TMS Providers",
-    "link": "https://bhbusiness.com/2026/08/03/what-new-smaller-neuromodulation-devices-mean-for-traditional-tms-providers/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-08-03T20:57:57+00:00",
-    "summary": "<p>This is an exclusive BHB+ story. Advancements in transcranial magnetic stimulation (TMS) treatment are shifting the therapy&#8217;s role from a last-resort option for patients with treatment-resistant major depressive disorder (MDD) and evolving into a more widely accessible, frontline intervention. Since it became a mainstream option for treatment-resistant MDD in 2008 after receiving FDA approval, TMS [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/08/03/what-new-smaller-neur",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-08-04T17:15:03.086600+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=11809",
-    "title": "Brave Health Names New CEO; Autism Care Partners Taps Next Chief Clinical Officer",
-    "link": "https://bhbusiness.com/2026/08/03/brave-health-names-new-ceo-autism-care-partners-taps-next-chief-clinical-officer/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-08-03T20:23:13+00:00",
-    "summary": "<p>Autism Care Partners taps two next executives\u00a0 Autism Care Partners has tapped Dr. Ivy Chong to serve as its next chief clinical officer. Prior to this appointment, Chong served as the chief clinical officer at Little Leaves Behavioral Services and senior vice president of child services at May Institute.\u200b The provider has also named Kris [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/08/03/brave-health-names-new-ceo-autism-care-partners-taps-next-chief-clinical-officer/\">Brav",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-08-04T17:15:03.086663+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/centanafadine-in-adhd-clinical-significance-of-the-first-triple-reuptake-inhibitor-for-adhd",
-    "title": "Centanafadine in ADHD: Clinical Significance of the First Triple Reuptake Inhibitor for ADHD",
-    "link": "https://www.psychiatrictimes.com/view/centanafadine-in-adhd-clinical-significance-of-the-first-triple-reuptake-inhibitor-for-adhd",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-03T16:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-08-04T17:15:04.286084+00:00"
   }
 ]
