@@ -1,5 +1,84 @@
 [
   {
+    "id": "https://www.psychiatrictimes.com/view/the-postmodern-worldview-and-contemporary-psychiatry",
+    "title": "The Postmodern Worldview and Contemporary Psychiatry",
+    "link": "https://www.psychiatrictimes.com/view/the-postmodern-worldview-and-contemporary-psychiatry",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-09T15:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-09T15:04:01.554160+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/new-52-week-topline-open-label-data-from-phase-3-comp005-trial-the-power-of-another-comp360-dose",
+    "title": "New 52-Week Topline Open-Label Data from Phase 3 COMP005 Trial: The Power of Another COMP360 Dose",
+    "link": "https://www.psychiatrictimes.com/view/new-52-week-topline-open-label-data-from-phase-3-comp005-trial-the-power-of-another-comp360-dose",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-09T13:32:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-09T15:04:01.554206+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/choosing-sexual-function-sparing-medications",
+    "title": "Choosing Sexual Function-Sparing Medications",
+    "link": "https://www.psychiatrictimes.com/view/choosing-sexual-function-sparing-medications",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-09T13:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-09T15:04:01.554240+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12089",
+    "title": "Trump Administration Issues Interim Enforcement Roadmap for Mental Health Parity Law",
+    "link": "https://bhbusiness.com/2026/09/08/trump-administration-issues-interim-enforcement-roadmap-for-mental-health-parity-law/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-08T20:27:36+00:00",
+    "summary": "<p>The\u00a0Trump administration\u00a0today\u00a0released\u00a0guidelines\u00a0on renewed\u00a0enforcement efforts\u00a0under\u00a0the\u00a0Mental Health Parity and Addiction Equity Act (MHPAEA), after\u00a0halting enforcement\u00a0of the\u00a0law in 2025.\u00a0\u00a0 The latest guidelines are not the administration\u2019s revised parity law, but rather a framework for enforcement action and identifying red flags during the interim. A Sept. 8 bulletin from the Assistant Secretary for the Department of Labor\u2019s Employee Benefits [&#8230;]</p>\n<p>The post <a href=\"https:/",
+    "topics": [
+      "substance-use-disorder",
+      "mental-health"
+    ],
+    "first_seen": "2026-09-09T15:04:00.464561+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12087",
+    "title": "North Carolina MCO Alliance Health Taps Cortica to Rein in Autism Spending, Improve Outcomes",
+    "link": "https://bhbusiness.com/2026/09/08/north-carolina-mco-alliance-health-taps-cortica-to-rein-in-autism-spending-improve-outcomes/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-08T20:03:07+00:00",
+    "summary": "<p>Ready to dive into what&#8217;s shaping autism therapy-payer relations? Be a part of the Autism Investor Summit East this November 9\u201310. Get your tickets here. Alliance Health, a specialty Medicaid managed care organization (MCO) in North Carolina, has inked a deal with multispecialty care provider Cortica to bring autism care spending under control and provide [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/08/north-carolina-mco-alliance-health-taps-cortica-to-rein-in-autis",
+    "topics": [
+      "mental-health",
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-09-09T15:04:00.464643+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12085",
+    "title": "Beacon Behavioral Health Partners Acquires 2 Texas Providers",
+    "link": "https://bhbusiness.com/2026/09/08/beacon-behavioral-health-partners-acquires-2-texas-providers/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-08T18:47:16+00:00",
+    "summary": "<p>Beacon Behavioral Partners is continuing its acquisition efforts with the purchase of Dallas-Fort Worth (DFW) providers Prime Psychiatry and Invicta Healthcare. The deal adds seven new locations to Beacon&#8217;s Texas footprint \u2014 six from Prime Psychiatry and two from Invicata. The company said the acquisitions are an effort to expand its scope in Northwest Texas. [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/08/beacon-behavioral-health-partners-acquires-2-texas-providers",
+    "topics": [
+      "mental-health",
+      "deals-and-ma"
+    ],
+    "first_seen": "2026-09-09T15:04:00.464698+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/morning-rounds-september-1-8",
+    "title": "Morning Rounds: September 1-8",
+    "link": "https://www.psychiatrictimes.com/view/morning-rounds-september-1-8",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-08T15:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-09T15:04:01.554270+00:00"
+  },
+  {
     "id": "https://www.psychiatrictimes.com/view/dt120-lysergide-odt-receives-breakthrough-therapy-designation-for-treatment-of-mdd",
     "title": "DT120 (Lysergide) ODT Receives Breakthrough Therapy Designation for Treatment of MDD",
     "link": "https://www.psychiatrictimes.com/view/dt120-lysergide-odt-receives-breakthrough-therapy-designation-for-treatment-of-mdd",
@@ -8,6 +87,16 @@
     "summary": "",
     "topics": [],
     "first_seen": "2026-09-08T15:01:27.980001+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/anita-clayton-md-on-diagnosing-and-discussing-sexual-dysfunction",
+    "title": "Anita Clayton, MD, on Diagnosing and Discussing Sexual Dysfunction",
+    "link": "https://www.psychiatrictimes.com/view/anita-clayton-md-on-diagnosing-and-discussing-sexual-dysfunction",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-08T13:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-09T15:04:01.554331+00:00"
   },
   {
     "id": "https://www.healthcaredive.com/spons/why-leading-medicare-advantage-plans-are-rethinking-care-transitions/827174/",
@@ -2108,15 +2197,5 @@
     "summary": "",
     "topics": [],
     "first_seen": "2026-08-11T14:43:29.001576+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/interdisciplinary-consensus-guidelines-on-stuttering-childhood-onset-fluency-disorder",
-    "title": "Interdisciplinary Consensus Guidelines on Stuttering (Childhood-Onset Fluency Disorder): Addressing Issues in Diagnosis, Treatment, and Unmet Needs",
-    "link": "https://www.psychiatrictimes.com/view/interdisciplinary-consensus-guidelines-on-stuttering-childhood-onset-fluency-disorder",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-10T13:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-08-10T14:42:08.061013+00:00"
   }
 ]
