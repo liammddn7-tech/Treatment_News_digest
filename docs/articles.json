@@ -1,5 +1,80 @@
 [
   {
+    "id": "https://mindsitenews.org/?p=18135",
+    "title": "Meet Chicago\u2019s First Street Psychiatrist",
+    "link": "https://mindsitenews.org/2026/09/28/meet-chicagos-first-street-psychiatrist/",
+    "source": "MindSite News",
+    "published_at": "2026-09-28T18:20:03+00:00",
+    "summary": "Sam Jackson was once a student of James Withers. This week, the pioneer of Street Medicine watched Jackson take over Chicago\u2019s Street Psychiatry pilot program.",
+    "topics": [],
+    "first_seen": "2026-09-28T18:33:19.639448+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12273",
+    "title": "The 3 Questions Behavioral Health Billing Teams Should Answer",
+    "link": "https://bhbusiness.com/2026/09/28/the-3-questions-behavioral-health-billing-teams-should-answer/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-28T18:18:49+00:00",
+    "summary": "<p>A busy revenue cycle team is not necessarily an effective one. In behavioral health, treatment center staff can spend their days working claims, responding to payer requests, reviewing documentation, following up on accounts receivable and resolving denials \u2014 and still struggle to make meaningful progress on accounts that are delaying reimbursement. Part of the problem [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/28/the-3-questions-behavioral-health-billing-teams-should-a",
+    "topics": [
+      "mental-health",
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-09-28T18:33:17.168247+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18128",
+    "title": "Journalist and Playwright Tackles Her Brother\u2019s Life Sentence with a One-Woman Play",
+    "link": "https://mindsitenews.org/2026/09/28/journalist-and-playwright-tackles-her-brothers-life-sentence-with-a-one-woman-play/",
+    "source": "MindSite News",
+    "published_at": "2026-09-28T17:58:22+00:00",
+    "summary": "'Puppets have a way of allowing people to talk about heavy topics without overwhelming them'",
+    "topics": [],
+    "first_seen": "2026-09-28T18:33:19.639493+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/solving-the-cholinergic-problem-cobenfy-s-path-from-shelf-to-fda-approval",
+    "title": "Solving the Cholinergic Problem: Cobenfy's Path From Shelf to FDA Approval",
+    "link": "https://www.psychiatrictimes.com/view/solving-the-cholinergic-problem-cobenfy-s-path-from-shelf-to-fda-approval",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-28T17:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-28T18:33:18.380161+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/dissecting-algorithms-of-the-mind-toward-precision-psychiatry-in-schizophrenia",
+    "title": "Dissecting Algorithms of the Mind: Toward Precision Psychiatry in Schizophrenia",
+    "link": "https://www.psychiatrictimes.com/view/dissecting-algorithms-of-the-mind-toward-precision-psychiatry-in-schizophrenia",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-28T16:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-28T18:33:18.380227+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/evidence-based-pharmacologic-approaches-to-reducing-suicide-risk",
+    "title": "Evidence-Based Pharmacologic Approaches to Reducing Suicide Risk",
+    "link": "https://www.psychiatrictimes.com/view/evidence-based-pharmacologic-approaches-to-reducing-suicide-risk",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-28T15:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-28T18:33:18.380268+00:00"
+  },
+  {
+    "id": "https://www.healthcaredive.com/spons/why-utilization-management-is-one-of-healthcare-ais-hardest-problems/830976/",
+    "title": "Why utilization management is one of healthcare AI\u2019s hardest problems",
+    "link": "https://www.healthcaredive.com/spons/why-utilization-management-is-one-of-healthcare-ais-hardest-problems/830976/",
+    "source": "Healthcare Dive",
+    "published_at": "2026-09-28T09:00:00+00:00",
+    "summary": "<p>Inside healthcare AI's toughest challenge: Predicting reimbursement before denials occur.</p>",
+    "topics": [
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-09-28T18:33:20.801113+00:00"
+  },
+  {
     "id": "https://mindsitenews.org/?p=18038",
     "title": "Students Say Mental Health Isn\u2019t Taboo \u2013 But Talking to Parents Is",
     "link": "https://mindsitenews.org/2026/09/25/students-say-mental-health-isnt-taboo-but-talking-to-parents-still-is/",
@@ -2222,16 +2297,6 @@
     "first_seen": "2026-08-30T15:17:34.392420+00:00"
   },
   {
-    "id": "https://www.psychiatrictimes.com/view/tying-wearable-biomarkers-to-value-based-care-in-psychiatry",
-    "title": "Tying Wearable Biomarkers to Value-Based Care in Psychiatry",
-    "link": "https://www.psychiatrictimes.com/view/tying-wearable-biomarkers-to-value-based-care-in-psychiatry",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-29T15:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-08-29T15:33:51.005110+00:00"
-  },
-  {
     "id": "https://www.psychiatrictimes.com/view/mindfully-prescribing-benzodiazepines-in-psychiatry",
     "title": "Mindfully Prescribing Benzodiazepines in Psychiatry",
     "link": "https://www.psychiatrictimes.com/view/mindfully-prescribing-benzodiazepines-in-psychiatry",
@@ -2242,20 +2307,6 @@
     "first_seen": "2026-08-30T15:17:34.392483+00:00"
   },
   {
-    "id": "https://bhbusiness.com/?p=12036",
-    "title": "Providers Fight Downcoding Efforts\u00a0by BCBS\u00a0Entity",
-    "link": "https://bhbusiness.com/2026/08/28/providers-fight-downcoding-efforts-by-bcbs-entity/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-08-28T21:27:55+00:00",
-    "summary": "<p>Psychiatric and addiction treatment providers in Montana are fighting to restore reimbursement for services they say have been downcoded by their state\u2019s Blue Cross Blue Shield plan. Starting July 1, Blue Cross and Blue Shield of Montana (BCBSMT) implemented a new process for assessing evaluation and management (E/M) codes. After their review process, BCBSMT is [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/08/28/providers-fight-downcoding-efforts-by-bcbs-entity/\">Providers Fi",
-    "topics": [
-      "substance-use-disorder",
-      "mental-health",
-      "policy-and-regulation"
-    ],
-    "first_seen": "2026-08-29T15:33:49.796293+00:00"
-  },
-  {
     "id": "https://www.psychiatrictimes.com/view/john-j-miller-md-on-the-biopsychosocial-model-in-psychiatry",
     "title": "John J. Miller, MD, on the Biopsychosocial Model in Psychiatry",
     "link": "https://www.psychiatrictimes.com/view/john-j-miller-md-on-the-biopsychosocial-model-in-psychiatry",
@@ -2264,57 +2315,5 @@
     "summary": "",
     "topics": [],
     "first_seen": "2026-08-31T17:57:46.801953+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/insanity-trials-and-the-court-of-popular-opinion",
-    "title": "Insanity Trials and The Court of Popular Opinion",
-    "link": "https://www.psychiatrictimes.com/view/insanity-trials-and-the-court-of-popular-opinion",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-28T18:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-08-28T21:20:54.272936+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/psyched-perspectives-closing-the-adhd-diagnostic-gap-for-girls-and-minority-youth",
-    "title": "Psyched Perspectives: Closing the ADHD Diagnostic Gap for Girls and Minority Youth",
-    "link": "https://www.psychiatrictimes.com/view/psyched-perspectives-closing-the-adhd-diagnostic-gap-for-girls-and-minority-youth",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-28T17:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-08-28T21:20:54.272969+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/an-update-on-the-harms-of-social-media-on-teen-mental-health-meta-settles-for-18-billion",
-    "title": "An Update on the Harms of Social Media on Teen Mental Health: Meta Settles for $18 Billion",
-    "link": "https://www.psychiatrictimes.com/view/an-update-on-the-harms-of-social-media-on-teen-mental-health-meta-settles-for-18-billion",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-28T15:46:49+00:00",
-    "summary": "",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-08-28T21:20:54.272993+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/podcast-how-to-mindfully-prescribe-benzodiazepines-with-carl-salzman-md",
-    "title": "Podcast: How to Mindfully Prescribe Benzodiazepines With Carl Salzman, MD",
-    "link": "https://www.psychiatrictimes.com/view/podcast-how-to-mindfully-prescribe-benzodiazepines-with-carl-salzman-md",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-28T15:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-08-28T21:20:54.273012+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/modified-titration-dosing-reduces-aria-e-risk-with-donanemab-a-discussion-with-john-sims-md",
-    "title": "Modified Titration Dosing Reduces ARIA-E Risk With Donanemab, A Discussion With John Sims, MD",
-    "link": "https://www.psychiatrictimes.com/view/modified-titration-dosing-reduces-aria-e-risk-with-donanemab-a-discussion-with-john-sims-md",
-    "source": "Psychiatric Times",
-    "published_at": "2026-08-28T13:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-08-28T21:20:54.273031+00:00"
   }
 ]
