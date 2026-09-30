@@ -1,5 +1,205 @@
 [
   {
+    "id": "https://www.healthcaredive.com/news/essentia-healthpartners-combine-amid-wave-minnesota-hospital-mergers/831685/",
+    "title": "Essentia, HealthPartners seek to combine amid wave of Minnesota hospital mergers",
+    "link": "https://www.healthcaredive.com/news/essentia-healthpartners-combine-amid-wave-minnesota-hospital-mergers/831685/",
+    "source": "Healthcare Dive",
+    "published_at": "2026-09-30T16:00:48+00:00",
+    "summary": "<p>Three major health system mergers have been proposed in the state over the past six months, kicking off a rush of public hearings and regulatory reviews. Essentia and HealthPartners hope to close their deal early next year.</p>",
+    "topics": [
+      "deals-and-ma"
+    ],
+    "first_seen": "2026-09-30T16:45:54.143165+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/the-menopause-transition-and-mental-health-what-clinicians-need-to-know",
+    "title": "The Menopause Transition and Mental Health: What Clinicians Need to Know",
+    "link": "https://www.psychiatrictimes.com/view/the-menopause-transition-and-mental-health-what-clinicians-need-to-know",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-30T15:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:51.855989+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18167",
+    "title": "MindSite News Turns Five",
+    "link": "https://mindsitenews.org/2026/09/30/mindsite-news-turns-five/",
+    "source": "MindSite News",
+    "published_at": "2026-09-30T14:58:45+00:00",
+    "summary": "Five years ago yesterday, as the U.S. was trying to recover from the COVID-19 pandemic, MindSite News was launched as the nation's only news outlet exclusively reporting on mental health.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:53.036080+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/september-2026-in-review-updates-on-the-psychiatric-treatment-pipeline-fda-news",
+    "title": "September 2026 in Review: Updates on the Psychiatric Treatment Pipeline, FDA News",
+    "link": "https://www.psychiatrictimes.com/view/september-2026-in-review-updates-on-the-psychiatric-treatment-pipeline-fda-news",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-30T14:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:51.856034+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/earn-cme-credit-with-psychiatric-times-test-your-knowledge",
+    "title": "Earn CME Credit With Psychiatric Times: Test Your Knowledge",
+    "link": "https://www.psychiatrictimes.com/view/earn-cme-credit-with-psychiatric-times-test-your-knowledge",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-30T13:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:51.856125+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/metabolic-psychiatry-integrates-nutritional-and-pharmacological-interventions",
+    "title": "Metabolic Psychiatry Integrates Nutritional and Pharmacological Interventions",
+    "link": "https://www.psychiatrictimes.com/view/metabolic-psychiatry-integrates-nutritional-and-pharmacological-interventions",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-30T12:30:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856161+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18177",
+    "title": "MindSite News Welcomes Jariel Arvin as Our New Reporting Fellow",
+    "link": "https://mindsitenews.org/2026/09/30/mindsite-news-welcomes-jariel-arvin-as-our-new-reporting-fellow/",
+    "source": "MindSite News",
+    "published_at": "2026-09-30T12:11:31+00:00",
+    "summary": "A Boston transplant \u2013 by way of Vietnam \u2013 sprouts local roots to help MindSite News deepen its Bay Area connections.",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:53.036142+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/what-brings-patients-in-functional-symptoms-and-remission-as-the-goal",
+    "title": "What Brings Patients In: Functional Symptoms and Remission as the Goal",
+    "link": "https://www.psychiatrictimes.com/view/what-brings-patients-in-functional-symptoms-and-remission-as-the-goal",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-30T12:05:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856192+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/from-side-effect-to-target-rethinking-metabolic-dysfunction-in-psychiatry",
+    "title": "From Side Effect to Target: Rethinking Metabolic Dysfunction in Psychiatry",
+    "link": "https://www.psychiatrictimes.com/view/from-side-effect-to-target-rethinking-metabolic-dysfunction-in-psychiatry",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-30T12:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856221+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/why-diagnosis-remains-psychiatry-s-hardest-task-in-mdd",
+    "title": "Why Diagnosis Remains Psychiatry's Hardest Task in MDD",
+    "link": "https://www.psychiatrictimes.com/view/why-diagnosis-remains-psychiatry-s-hardest-task-in-mdd",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-30T12:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856249+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12289",
+    "title": "Inside the Hospital of the Future: How Connected Safety Is Redefining Psychiatric Care",
+    "link": "https://bhbusiness.com/2026/09/29/inside-the-hospital-of-the-future-how-connected-safety-is-redefining-psychiatric-care/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-30T02:48:54+00:00",
+    "summary": "<p>Every behavioral health executive faces the same operational challenge: traditional manual rounds leave patients unmonitored for over 90% of the day. For one provider, the reality of this unfolded when an older patient arrived at a psychiatric inpatient unit so agitated he could barely speak and staff needed to find out why. Fortunately, the unit [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/29/inside-the-hospital-of-the-future-how-connected-safety-is-redefining-psychiatri",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:50.792852+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12285",
+    "title": "Fears of Payer AI Use in Auditing Loom as Providers Establish Their Own AI Tools",
+    "link": "https://bhbusiness.com/2026/09/29/fears-of-payer-ai-use-in-auditing-loom-as-providers-establish-their-own-ai-tools/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-29T20:35:31+00:00",
+    "summary": "<p>This is an exclusive BHB+ story. More than half of the nation\u2019s mental health clinicians now use AI tools in their professional workflows for tasks ranging from administrative tasks to training and note-taking. But anxieties are growing among behavioral health providers about what payers\u2019 AI use and adoption may mean for them &#8212; especially when [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/29/fears-of-payer-ai-use-in-auditing-loom-as-providers-establish-their-own-ai-t",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:50.792930+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12283",
+    "title": "Blue Shield of California, Magellan Ghost Network Lawsuit Continues After Failed Motion to Dismiss",
+    "link": "https://bhbusiness.com/2026/09/29/blue-shield-of-california-magellan-ghost-network-lawsuit-continues-after-failed-motion-to-dismiss/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-29T20:20:38+00:00",
+    "summary": "<p>A lawsuit alleging that Blue Shield of California and Magellan Health maintained a ghost network directory of inaccurate information for mental health clinicians in its network will continue after a U.S. District Judge partially denied Blue Shield\u2019s motion to dismiss. \u00a0 The suit first opened in November 2025 as an Employee Retirement Income Security Act [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/29/blue-shield-of-california-magellan-ghost-network-lawsuit-continues-after",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:50.792993+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12281",
+    "title": "Community Nonprofit Comprehensive Behavioral Health Files for Chapter 11 Bankruptcy",
+    "link": "https://bhbusiness.com/2026/09/29/community-non-profit-comprehensive-behavioral-health-files-for-chapter-11-bankruptcy/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-09-29T20:08:41+00:00",
+    "summary": "<p>Hackensack, New Jersey-based Comprehensive Behavioral Health Care Inc. (CBH Care) has filed for Chapter 11 bankruptcy protections. The nonprofit behavioral health and community support services provider says in a court filing that a prolonged fight with the landlord of its \u201cmain hub\u201d and that landlord\u2019s attempts to evict CBH Care drove the organization to file [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/29/community-non-profit-comprehensive-behavioral-health-files-for-ch",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:50.793076+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/acnp-position-paper-lays-out-roadmap-for-biomarker-guided-psychiatric-drug-trials",
+    "title": "ACNP Position Paper Lays Out Roadmap for Biomarker-Guided Psychiatric Drug Trials",
+    "link": "https://www.psychiatrictimes.com/view/acnp-position-paper-lays-out-roadmap-for-biomarker-guided-psychiatric-drug-trials",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-29T19:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-09-30T16:45:51.856278+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/paganin-october-cover-story-references",
+    "title": "Paganin October Cover Story References",
+    "link": "https://www.psychiatrictimes.com/view/paganin-october-cover-story-references",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-29T18:26:13+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856304+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/could-psychosis-arise-from-the-same-hippocampal-mechanisms-that-support-creativity-and-learning",
+    "title": "Could Psychosis Arise From the Same Hippocampal Mechanisms That Support Creativity and Learning?",
+    "link": "https://www.psychiatrictimes.com/view/could-psychosis-arise-from-the-same-hippocampal-mechanisms-that-support-creativity-and-learning",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-29T18:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856332+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/hippocampal-generative-processes-during-sleep-support-rapid-learning-of-new-associations",
+    "title": "Hippocampal Generative Processes During Sleep Support Rapid Learning of New Associations",
+    "link": "https://www.psychiatrictimes.com/view/hippocampal-generative-processes-during-sleep-support-rapid-learning-of-new-associations",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-29T17:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856359+00:00"
+  },
+  {
     "id": "https://www.healthcaredive.com/news/medicare-advantage-cuts-2027-cms-landscape/831563/",
     "title": "Here\u2019s how much insurers are cutting Medicare Advantage plans for 2027",
     "link": "https://www.healthcaredive.com/news/medicare-advantage-cuts-2027-cms-landscape/831563/",
@@ -20,6 +220,18 @@
     "summary": "",
     "topics": [],
     "first_seen": "2026-09-29T16:51:05.186338+00:00"
+  },
+  {
+    "id": "https://www.healthcaredive.com/news/oura-delays-ipo/831655/",
+    "title": "Oura delays IPO",
+    "link": "https://www.healthcaredive.com/news/oura-delays-ipo/831655/",
+    "source": "Healthcare Dive",
+    "published_at": "2026-09-29T15:42:41+00:00",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/dWwvl3Ls0vDbyjrmbIMaGNVoHBqj64OuWCY1TpoL6HA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMl9PdXJhX1JpbmdfNF9Qcm9kdWN0X0ltYWdlcnkuanBn.webp\" /></div></figure><p>Citing market uncertainty, the smart ring maker plans to delay a public offering that it had expected to raise up to $2.2 billion.</p>",
+    "topics": [
+      "deals-and-ma"
+    ],
+    "first_seen": "2026-09-30T16:45:54.143272+00:00"
   },
   {
     "id": "https://www.psychiatrictimes.com/view/rapid-antidepressants-and-suicide-risk-what-do-we-really-know",
@@ -268,6 +480,16 @@
       "mental-health"
     ],
     "first_seen": "2026-09-26T14:56:27.702615+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/what-would-it-take-to-bring-precision-psychiatry-into-routine-schizophrenia-care-",
+    "title": "What Would It Take to Bring Precision Psychiatry Into Routine Schizophrenia Care?",
+    "link": "https://www.psychiatrictimes.com/view/what-would-it-take-to-bring-precision-psychiatry-into-routine-schizophrenia-care-",
+    "source": "Psychiatric Times",
+    "published_at": "2026-09-25T19:30:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-09-30T16:45:51.856745+00:00"
   },
   {
     "id": "https://www.psychiatrictimes.com/view/exploring-a-misuse-of-neuroscience-how-biology-has-been-used-to-remove-responsibility-in-youth",
