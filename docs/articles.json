@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://www.psychiatrictimes.com/view/ai-as-a-task-replacing-tool-for-psychiatric-care-a-conversation-with-christoph-correll-md",
+    "title": "AI as a Task-Replacing Tool for Psychiatric Care: A Conversation With Christoph Correll, MD",
+    "link": "https://www.psychiatrictimes.com/view/ai-as-a-task-replacing-tool-for-psychiatric-care-a-conversation-with-christoph-correll-md",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-04T01:24:13+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-04T15:43:32.938974+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/closing-the-diagnostic-gap-in-dementia-with-blood-based-biomarkers",
+    "title": "Closing the Diagnostic Gap in Dementia With Blood-Based Biomarkers",
+    "link": "https://www.psychiatrictimes.com/view/closing-the-diagnostic-gap-in-dementia-with-blood-based-biomarkers",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-04T00:08:48+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-04T15:43:32.939021+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/reframing-long-acting-injectable-antipsychotics-as-a-path-to-patient-autonomy",
+    "title": "Reframing Long-Acting Injectable Antipsychotics as a Path to Patient Autonomy",
+    "link": "https://www.psychiatrictimes.com/view/reframing-long-acting-injectable-antipsychotics-as-a-path-to-patient-autonomy",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-03T19:33:13+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-04T15:43:32.939056+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/anhedonia-as-marker-and-predictor-screening-strategies-for-clinical-practice",
+    "title": "Anhedonia as Marker and Predictor: Screening Strategies for Clinical Practice",
+    "link": "https://www.psychiatrictimes.com/view/anhedonia-as-marker-and-predictor-screening-strategies-for-clinical-practice",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-03T18:00:07+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-04T15:43:32.939095+00:00"
+  },
+  {
     "id": "https://www.psychiatrictimes.com/view/how-to-uncover-covert-medication-nonadherence-in-serious-mental-illness",
     "title": "How to Uncover Covert Medication Nonadherence in Serious Mental Illness",
     "link": "https://www.psychiatrictimes.com/view/how-to-uncover-covert-medication-nonadherence-in-serious-mental-illness",
@@ -18,6 +60,18 @@
     "summary": "",
     "topics": [],
     "first_seen": "2026-10-03T15:06:55.265766+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18239",
+    "title": "Future Friends, a Concert Series to Reduce Loneliness and Increase Belonging",
+    "link": "https://mindsitenews.org/2026/10/02/future-friends-concert-series-combating-college-loneliness/",
+    "source": "MindSite News",
+    "published_at": "2026-10-02T21:33:00+00:00",
+    "summary": "The Future Friends concert series pairs live music, phone-free social events, and mental health resources to fight loneliness on college campuses.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-04T15:43:34.063510+00:00"
   },
   {
     "id": "https://bhbusiness.com/?p=12314",
@@ -64,6 +118,19 @@
     "summary": "",
     "topics": [],
     "first_seen": "2026-10-03T15:06:55.265834+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18236",
+    "title": "Exclusive: A Maternal Policy Expert Weighs in on Lindsay Clancy Mistrial",
+    "link": "https://mindsitenews.org/2026/10/02/maternal-mental-health-policy-lindsay-clancy-case-lessons/",
+    "source": "MindSite News",
+    "published_at": "2026-10-02T18:29:00+00:00",
+    "summary": "Policy expert Joy Burkhard discusses maternal mental health policy, postpartum psychosis misunderstandings, and new CA mental health parity laws.",
+    "topics": [
+      "mental-health",
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-10-04T15:43:34.063554+00:00"
   },
   {
     "id": "https://www.psychiatrictimes.com/view/before-treating-excessive-sleepiness-make-sure-you-know-what-youre-treating",
@@ -152,6 +219,30 @@
     "first_seen": "2026-10-02T16:34:49.299113+00:00"
   },
   {
+    "id": "https://mindsitenews.org/?p=18233",
+    "title": "California Orders Sacramento County to Work With Five Cities to Reduce Homelessness",
+    "link": "https://mindsitenews.org/2026/10/01/sacramento-county-homelessness-regional-response-mandate/",
+    "source": "MindSite News",
+    "published_at": "2026-10-01T21:36:00+00:00",
+    "summary": "New legislation requires Sacramento County homelessness efforts to be coordinated among five cities to bridge funding gaps and shelter needs.",
+    "topics": [
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-10-04T15:43:34.063630+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18230",
+    "title": "\u2018In There, Everything Is Lost\u2019: Why ICE Detainees in Texas Try to Kill Themselves",
+    "link": "https://mindsitenews.org/2026/10/01/ice-detainees-texas-suicide-conditions/",
+    "source": "MindSite News",
+    "published_at": "2026-10-01T21:01:00+00:00",
+    "summary": "Five immigrants in Texas ICE detention centers share their stories of severe neglect, harsh conditions, and struggling with mental health while facing deportation.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-04T15:43:34.063669+00:00"
+  },
+  {
     "id": "https://bhbusiness.com/?p=12307",
     "title": "Outside Capital Isn\u2019t the Problem in Autism Therapy. A Lack of Accountability Is.",
     "link": "https://bhbusiness.com/2026/10/01/outside-capital-isnt-the-problem-in-autism-therapy-a-lack-of-accountability-is/",
@@ -164,6 +255,18 @@
     "first_seen": "2026-10-02T16:34:47.946499+00:00"
   },
   {
+    "id": "https://mindsitenews.org/?p=18228",
+    "title": "NAMI Minnesota Invests $1 Million Into Grassroots Healing",
+    "link": "https://mindsitenews.org/2026/10/01/nami-healing-minnesota-investment/",
+    "source": "MindSite News",
+    "published_at": "2026-10-01T19:56:00+00:00",
+    "summary": "NAMI's Healing Minnesota is investing $1 million into grassroots mental health support to help local communities recover from trauma and crisis.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-04T15:43:34.063700+00:00"
+  },
+  {
     "id": "https://www.psychiatrictimes.com/view/real-world-data-link-lai-risperidone-to-fewer-emergency-visits-in-schizophrenia-improved-bipolar-treatment",
     "title": "Real-World Data Link LAI Risperidone to Fewer Emergency Visits in Schizophrenia, Improved Bipolar Treatment",
     "link": "https://www.psychiatrictimes.com/view/real-world-data-link-lai-risperidone-to-fewer-emergency-visits-in-schizophrenia-improved-bipolar-treatment",
@@ -174,6 +277,18 @@
       "deals-and-ma"
     ],
     "first_seen": "2026-10-02T16:34:49.299147+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18224",
+    "title": "$1 Million to Help Heal Minnesota\u2019s Cascade of Trauma",
+    "link": "https://mindsitenews.org/2026/10/01/1-million-to-help-heal-minnesotas-cascade-of-trauma/",
+    "source": "MindSite News",
+    "published_at": "2026-10-01T18:51:00+00:00",
+    "summary": "In today's newsletter, NAMI Minnesota has launched a new grant-giving initiative to help agencies doing crucial work to support mental health.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-04T15:43:34.063735+00:00"
   },
   {
     "id": "https://www.psychiatrictimes.com/view/reducing-stigma-around-postpartum-psychosis-infant-risk-self-blame-and-treatability",
@@ -2507,130 +2622,5 @@
       "policy-and-regulation"
     ],
     "first_seen": "2026-09-08T15:01:30.427333+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/podcast-tips-for-treating-sexual-dysfunction-with-anita-h-clayton-md",
-    "title": "Podcast: Tips for Treating Sexual Dysfunction With Anita H. Clayton, MD",
-    "link": "https://www.psychiatrictimes.com/view/podcast-tips-for-treating-sexual-dysfunction-with-anita-h-clayton-md",
-    "source": "Psychiatric Times",
-    "published_at": "2026-09-04T14:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-09-04T14:53:13.765227+00:00"
-  },
-  {
-    "id": "https://www.healthcaredive.com/news/lawmakers-to-subpoena-oracle-execs-as-ehr-project-costs-rise/829671/",
-    "title": "Lawmakers to subpoena Oracle execs as EHR project costs rise",
-    "link": "https://www.healthcaredive.com/news/lawmakers-to-subpoena-oracle-execs-as-ehr-project-costs-rise/829671/",
-    "source": "Healthcare Dive",
-    "published_at": "2026-09-04T13:58:59+00:00",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/nqkMo008YWNaPPSgMxtEcgIojiVuQcMvuUh7dlnjqio/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjQyMjMyMjgxLmpwZw==.webp\" /></div></figure><p>After nearly tripling its contract ceiling with the VA to $27 billion, Congress wants to hear from Oracle&rsquo;s Executive Chairman Larry Ellison and CEO Mike Sicilia about the project&rsquo;s escalating costs and lengthy timeline.</p>",
-    "topics": [
-      "policy-and-regulation"
-    ],
-    "first_seen": "2026-09-04T14:53:16.442274+00:00"
-  },
-  {
-    "id": "https://www.healthcaredive.com/news/adena-health-acquires-fairfield-medical-center-after-antitrust-scrutiny/829659/",
-    "title": "Adena Health acquires Fairfield Medical Center after antitrust scrutiny",
-    "link": "https://www.healthcaredive.com/news/adena-health-acquires-fairfield-medical-center-after-antitrust-scrutiny/829659/",
-    "source": "Healthcare Dive",
-    "published_at": "2026-09-04T12:52:56+00:00",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_5_4nT16xU0mDhs0ZW6CNP_hdQd-zdqQlPEwA1773Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwMTU4NDc3LmpwZw==.webp\" /></div></figure><p>Pressured by federal antitrust concerns, Fairfield Medical Center has completed a merger with Adena Health after pivoting from a planned sale to state giant OhioHealth.</p>",
-    "topics": [
-      "deals-and-ma"
-    ],
-    "first_seen": "2026-09-04T14:53:16.442322+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/differentiating-agitation-from-depression-anxiety-and-psychosis",
-    "title": "Differentiating Agitation from Depression, Anxiety, and Psychosis",
-    "link": "https://www.psychiatrictimes.com/view/differentiating-agitation-from-depression-anxiety-and-psychosis",
-    "source": "Psychiatric Times",
-    "published_at": "2026-09-04T12:05:00+00:00",
-    "summary": "",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-09-04T14:53:13.765278+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/agitation-associated-with-dementia-due-to-alzheimer-s-disease-how-common-is-it-and-how-does-it-present-",
-    "title": "Agitation Associated with Dementia Due to Alzheimer\u2019s Disease: How Common Is It, and How Does It Present?",
-    "link": "https://www.psychiatrictimes.com/view/agitation-associated-with-dementia-due-to-alzheimer-s-disease-how-common-is-it-and-how-does-it-present-",
-    "source": "Psychiatric Times",
-    "published_at": "2026-09-04T12:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-09-04T14:53:13.765320+00:00"
-  },
-  {
-    "id": "https://mindsitenews.org/?p=17934",
-    "title": "How Football Affects Your Child\u2019s Brain Health",
-    "link": "https://mindsitenews.org/2026/09/03/how-football-affects-your-childs-brain-health/",
-    "source": "MindSite News",
-    "published_at": "2026-09-03T20:50:52+00:00",
-    "summary": "For young football players, what matters is fewer years of contact and fewer hits within those years.",
-    "topics": [],
-    "first_seen": "2026-09-04T14:53:15.225251+00:00"
-  },
-  {
-    "id": "https://mindsitenews.org/?p=17929",
-    "title": "Are We Reaching People in Crisis \u2014 or Just Counting the Ones Who Call?",
-    "link": "https://mindsitenews.org/2026/09/03/is-the-988-lifeline-actually-working-what-the-data-shows/",
-    "source": "MindSite News",
-    "published_at": "2026-09-03T20:47:56+00:00",
-    "summary": "Billions were spent on the 988 lifeline, but fewer than 1 in 5 people in crisis use it. Here is what research reveals about the gap in mental health care.",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-09-04T14:53:15.225302+00:00"
-  },
-  {
-    "id": "https://mindsitenews.org/?p=17924",
-    "title": "You Cannot Make Football Safe for a Child\u2019s Brain, but You Can Make It Safer",
-    "link": "https://mindsitenews.org/2026/09/03/making-youth-football-safer-brain-injury-risks-cte-facts/",
-    "source": "MindSite News",
-    "published_at": "2026-09-03T20:29:29+00:00",
-    "summary": "Football cannot be made completely safe for a child\u2019s brain, but smart choices can lower the risk. Discover how flag leagues and reduced contact protect youth.",
-    "topics": [],
-    "first_seen": "2026-09-04T14:53:15.225341+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=12074",
-    "title": "Meta Settlement Funds Could Be a Boost for Youth Mental Health",
-    "link": "https://bhbusiness.com/2026/09/03/meta-settlement-funds-could-be-a-boost-for-youth-mental-health/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-09-03T20:05:57+00:00",
-    "summary": "<p>This is an exclusive BHB+ article. Social media has long been criticized for its potential role in the deterioration of children\u2019s and young people\u2019s mental health in the United States. A major settlement in the litigation against Meta (Nasdaq: META) could provide states with funding to begin addressing some of the behavioral health challenges at [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/03/meta-settlement-funds-could-be-a-boost-for-youth-mental-health/\">Meta Settlemen",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-09-04T14:53:12.516339+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=12070",
-    "title": "Hi Rasmus Gets $50M Minority Investment\u00a0from\u00a0Large B2B Software\u00a0Investor",
-    "link": "https://bhbusiness.com/2026/09/03/hi-rasmus-gets-50m-minority-investment-from-large-b2b-software-investor/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-09-03T19:57:59+00:00",
-    "summary": "<p>Nashville, Tennessee-based applied behavioral analysis (ABA) software platform Hi Rasmus received $50 million in new capital from Updata Partners, a technology-focused growth equity firm. Updata Partners\u2019 general partner Braden Snyder will join Hi Rasmus\u2019 board, but Updata\u2019s minority investment allows Hi Rasmus to retain its leadership team and maintain control over all existing operations. Up [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/03/hi-rasmus-gets-50m-minority-inv",
-    "topics": [
-      "mental-health",
-      "deals-and-ma"
-    ],
-    "first_seen": "2026-09-04T14:53:12.516419+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=12068",
-    "title": "ABA Centers of America at the Center of Federal Criminal Investigation",
-    "link": "https://bhbusiness.com/2026/09/03/aba-centers-of-america-at-the-center-of-federal-criminal-investigation/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-09-03T18:56:56+00:00",
-    "summary": "<p>ABA Centers of America is at the center of an ongoing federal criminal investigation into allegations of money laundering as well as billing, healthcare and wire fraud, according to a recently unsealed warrant application. The documents, first spotted by Reinforcement &#38; Ruin, detail that this is the second time federal investigators have gone to a [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/03/aba-centers-of-america-at-the-center-of-federal-criminal-investigation/\">A",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-09-04T14:53:12.516479+00:00"
   }
 ]
