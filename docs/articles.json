@@ -1,5 +1,87 @@
 [
   {
+    "id": "https://www.psychiatrictimes.com/view/what-makes-us-human-the-role-of-psychiatry-and-the-future-dsm",
+    "title": "What Makes Us Human? The Role of Psychiatry and the Future DSM",
+    "link": "https://www.psychiatrictimes.com/view/what-makes-us-human-the-role-of-psychiatry-and-the-future-dsm",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-12T18:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:12.356231+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/reimbursement-and-resources-preparing-clinics-for-psilocybin-therapy",
+    "title": "Reimbursement and Resources: Preparing Clinics for Psilocybin Therapy",
+    "link": "https://www.psychiatrictimes.com/view/reimbursement-and-resources-preparing-clinics-for-psilocybin-therapy",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-12T15:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-10-12T20:12:12.356288+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/the-new-impending-adult-adhd-guidelines",
+    "title": "The New, Impending Adult ADHD Guidelines",
+    "link": "https://www.psychiatrictimes.com/view/the-new-impending-adult-adhd-guidelines",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-12T14:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:12.356311+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/morning-rounds-october-5-12",
+    "title": "Morning Rounds: October 5-12",
+    "link": "https://www.psychiatrictimes.com/view/morning-rounds-october-5-12",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-12T14:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:12.356328+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/motivational-interviewing-to-improve-long-acting-injectable-antipsychotic-discussions",
+    "title": "Motivational Interviewing to Improve Long-Acting Injectable Antipsychotic Discussions",
+    "link": "https://www.psychiatrictimes.com/view/motivational-interviewing-to-improve-long-acting-injectable-antipsychotic-discussions",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-12T14:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:12.356347+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/defining-response-remission-and-residual-symptoms-in-mdd",
+    "title": "Defining Response, Remission, and Residual Symptoms in MDD",
+    "link": "https://www.psychiatrictimes.com/view/defining-response-remission-and-residual-symptoms-in-mdd",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-12T12:05:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:12.356363+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/two-new-mdd-approvals-5-ht1a-agonism-and-adjunctive-atypical-antipsychotics",
+    "title": "Two New MDD Approvals: 5-HT1A Agonism and Adjunctive Atypical Antipsychotics",
+    "link": "https://www.psychiatrictimes.com/view/two-new-mdd-approvals-5-ht1a-agonism-and-adjunctive-atypical-antipsychotics",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-12T12:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:12.356379+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18463",
+    "title": "ADHD can make friendships harder for kids. Here\u2019s how parents can help.",
+    "link": "https://mindsitenews.org/2026/10/09/adhd-can-make-friendships-harder/",
+    "source": "MindSite News",
+    "published_at": "2026-10-09T21:48:00+00:00",
+    "summary": "For many kids, losing a board game stings for a minute. But for a child with ADHD, the situation can spiral into a meltdown. Moments like these add up, along [&#8230;]",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:13.735974+00:00"
+  },
+  {
     "id": "https://bhbusiness.com/?p=12371",
     "title": "R&S Holdings Acquires Residential Addiction Treatment Operator Innovo Detox",
     "link": "https://bhbusiness.com/2026/10/09/rs-holdings-acquires-residential-addiction-treatment-operator-innovo-detox/",
@@ -12,6 +94,16 @@
       "deals-and-ma"
     ],
     "first_seen": "2026-10-10T16:09:44.532854+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18458",
+    "title": "Cornell Assault Prompts Parents to Talk With Their Sons",
+    "link": "https://mindsitenews.org/2026/10/09/cornell-assault-prompts-parents-to-talk-with-their-sons/",
+    "source": "MindSite News",
+    "published_at": "2026-10-09T18:32:56+00:00",
+    "summary": "Sexual assault on campuses nationwide is still a grave problem.",
+    "topics": [],
+    "first_seen": "2026-10-12T20:12:13.736002+00:00"
   },
   {
     "id": "https://www.psychiatrictimes.com/view/should-postpartum-psychosis-be-included-in-the-dsm",
@@ -2838,72 +2930,5 @@
     "summary": "",
     "topics": [],
     "first_seen": "2026-09-14T16:54:58.078383+00:00"
-  },
-  {
-    "id": "https://mindsitenews.org/?p=17972",
-    "title": "California Gov. Gavin Newsom Could Make History for Local News Outlets Nationwide",
-    "link": "https://mindsitenews.org/2026/09/11/california-gov-gavin-newsom-could-make-history-for-local-news-outlets-nationwide/",
-    "source": "MindSite News",
-    "published_at": "2026-09-12T00:59:06+00:00",
-    "summary": "A landmark bill passed by the state legislature would provide funding for California news outlets to hire reporters and help sustain community journalism. It awaits the governor's signature.",
-    "topics": [
-      "policy-and-regulation"
-    ],
-    "first_seen": "2026-09-12T13:58:36.167241+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=12118",
-    "title": "Aware Recovery Care\u2019s Financial Troubles Worsen, Sales Talk Emerges",
-    "link": "https://bhbusiness.com/2026/09/11/aware-recovery-cares-financial-troubles-worsen-sales-talk-emerges/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-09-11T18:16:31+00:00",
-    "summary": "<p>Financial challenges at Aware Recovery Care have escalated, and new court filings suggest the Connecticut-based addiction treatment provider may soon have a new buyer or successor to continue operations at its clinics in 11 states. Existing employees have until today, Sept. 11, to decide if they wish to stay with the company. Roy Sasenaraine, CEO [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/09/11/aware-recovery-cares-financial-troubles-worsen-sales-talk-emerges/\">Aware Recov",
-    "topics": [
-      "substance-use-disorder",
-      "mental-health"
-    ],
-    "first_seen": "2026-09-12T13:58:33.676356+00:00"
-  },
-  {
-    "id": "https://mindsitenews.org/?p=17962",
-    "title": "How 9/11\u2019s firefighters began to heal from unspeakable trauma",
-    "link": "https://mindsitenews.org/2026/09/11/how-9-11s-firefighters-began-to-heal-from-unspeakable-trauma/",
-    "source": "MindSite News",
-    "published_at": "2026-09-11T16:13:23+00:00",
-    "summary": "'At the FDNY, we lost 343 members...The devastation was so total that action seemed like the only antidote.'",
-    "topics": [],
-    "first_seen": "2026-09-12T13:58:36.167289+00:00"
-  },
-  {
-    "id": "https://www.healthcaredive.com/news/hospital-compliance-price-transparency-regulations-pra-report/830087/",
-    "title": "More than half of hospitals still not fully compliant with price transparency rules: report",
-    "link": "https://www.healthcaredive.com/news/hospital-compliance-price-transparency-regulations-pra-report/830087/",
-    "source": "Healthcare Dive",
-    "published_at": "2026-09-11T15:38:44+00:00",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/c-kN-V8JaU5U7KcA7NuebUmbgwVGpTvu1FZO8pGVxi0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDM4Mzk5MTM0LmpwZw==.webp\" /></div></figure><p>A record number of hospitals are fully sharing data on the cost of their services, thanks to the CMS stepping up enforcement. But there&rsquo;s still a ways to go, according to PatientRightsAdvocate.org.</p>",
-    "topics": [
-      "policy-and-regulation"
-    ],
-    "first_seen": "2026-09-12T13:58:37.347564+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/state-funding-for-suicide-prevention-and-crisis-services-climbs-sharply-from-2021-to-2026",
-    "title": "State Funding for Suicide Prevention and Crisis Services Climbs Sharply From 2021 to 2026",
-    "link": "https://www.psychiatrictimes.com/view/state-funding-for-suicide-prevention-and-crisis-services-climbs-sharply-from-2021-to-2026",
-    "source": "Psychiatric Times",
-    "published_at": "2026-09-11T15:05:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-09-12T13:58:34.831205+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/how-can-psychiatrists-help-patients-build-resilience-after-trauma",
-    "title": "How Can Psychiatrists Help Patients Build Resilience After Trauma?",
-    "link": "https://www.psychiatrictimes.com/view/how-can-psychiatrists-help-patients-build-resilience-after-trauma",
-    "source": "Psychiatric Times",
-    "published_at": "2026-09-11T15:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-09-12T13:58:34.831250+00:00"
   }
 ]
