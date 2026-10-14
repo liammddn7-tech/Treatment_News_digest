@@ -1,5 +1,144 @@
 [
   {
+    "id": "https://www.psychiatrictimes.com/view/podcast-lindsey-hill-dnp-pmhnp-on-mentorship-training-gaps-and-collaboration-in-psychiatric-care",
+    "title": "Podcast: Lindsey Hill, DNP, PMHNP, on Mentorship, Training Gaps, and Collaboration in Psychiatric Care",
+    "link": "https://www.psychiatrictimes.com/view/podcast-lindsey-hill-dnp-pmhnp-on-mentorship-training-gaps-and-collaboration-in-psychiatric-care",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-14T15:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-14T15:45:59.441882+00:00"
+  },
+  {
+    "id": "https://www.healthcaredive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832969/",
+    "title": "CVS to pay $315M to settle opioid prescribing allegations",
+    "link": "https://www.healthcaredive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832969/",
+    "source": "Healthcare Dive",
+    "published_at": "2026-10-14T14:45:52+00:00",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/y4ZnE-ebRFmuc-ITWJOkqsjoXAD1lFYu97Rycb1qL9c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTkzNzcxMDk4LmpwZw==.webp\" /></div></figure><p>Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.</p>",
+    "topics": [
+      "substance-use-disorder"
+    ],
+    "first_seen": "2026-10-14T15:46:02.068587+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/how-best-to-manage-treatment-resistant-depression",
+    "title": "How Best to Manage Treatment-Resistant Depression",
+    "link": "https://www.psychiatrictimes.com/view/how-best-to-manage-treatment-resistant-depression",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-14T14:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-14T15:45:59.441927+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/the-first-ever-treatment-resistant-depression-awareness-day",
+    "title": "The First Ever Treatment-Resistant Depression Awareness Day",
+    "link": "https://www.psychiatrictimes.com/view/the-first-ever-treatment-resistant-depression-awareness-day",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-14T13:13:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-14T15:45:59.441963+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/beyond-the-questionnaire-tracking-mdd-progress-through-everyday-conversation",
+    "title": "Beyond the Questionnaire: Tracking MDD Progress Through Everyday Conversation",
+    "link": "https://www.psychiatrictimes.com/view/beyond-the-questionnaire-tracking-mdd-progress-through-everyday-conversation",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-14T12:05:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-14T15:45:59.441994+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12390",
+    "title": "LGBTQ+ Therapy Platform Allswell Raises $7M",
+    "link": "https://bhbusiness.com/2026/10/14/lgbtq-therapy-platform-allswell-raises-7m/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-10-14T12:00:00+00:00",
+    "summary": "<p>Allswell, a virtual behavioral health provider specializing in LGBTQ+ care, has announced a $7 million seed round led by ReThink Impact. With $1.3 million raised in an earlier pre-seed fundraise, Allswell now has a total capital runway of $8.3 million to expand into new territories. Allswell CEO and co-founder Dawn Androphy is focused on expanding [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/10/14/lgbtq-therapy-platform-allswell-raises-7m/\">LGBTQ+ Therapy Platform Allswell R",
+    "topics": [
+      "mental-health",
+      "deals-and-ma"
+    ],
+    "first_seen": "2026-10-14T15:45:58.281592+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/predicting-antipsychotic-response-could-eeg-help",
+    "title": "Predicting Antipsychotic Response: Could EEG Help?",
+    "link": "https://www.psychiatrictimes.com/view/predicting-antipsychotic-response-could-eeg-help",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-14T12:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-14T15:45:59.442024+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/raising-the-bar-in-mdd-what-true-remission-looks-like",
+    "title": "Raising the Bar in MDD: What True Remission Looks Like",
+    "link": "https://www.psychiatrictimes.com/view/raising-the-bar-in-mdd-what-true-remission-looks-like",
+    "source": "Psychiatric Times",
+    "published_at": "2026-10-14T12:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-10-14T15:45:59.442053+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18499",
+    "title": "Go Fish! The Rise of Youth Social Prescribing",
+    "link": "https://mindsitenews.org/2026/10/14/go-fish-the-rise-of-youth-social-prescribing/",
+    "source": "MindSite News",
+    "published_at": "2026-10-14T11:03:00+00:00",
+    "summary": "A UK-born healthcare movement that \u201cprescribes\u201d community activity to struggling young people is spreading to Canada, Australia, and the US.",
+    "topics": [],
+    "first_seen": "2026-10-14T15:46:00.741116+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12387",
+    "title": "Movers & Shakers: Odyssey Behavioral Health, Centerstone Name Chief Revenue Officers",
+    "link": "https://bhbusiness.com/2026/10/13/movers-shakers-odyssey-behavioral-health-centerstone-name-chief-revenue-officers/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-10-13T20:28:56+00:00",
+    "summary": "<p>Merakey names new CSO, CGO\u00a0 In August, national behavioral health and human support services provider Merakey named two new leaders to its C-suite. Jennifer Rhia is now Merakey\u2019s chief strategy officer, a role that she held at I Am Boundless, an organization that merged with Merakey. That move was announced in June. Together, the organizations [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/10/13/movers-shakers-odyssey-behavioral-health-centerstone-name-chief-revenue-officers/\"",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-10-14T15:45:58.281679+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12382",
+    "title": "Effective Governance in Behavioral Healthcare Organizations",
+    "link": "https://bhbusiness.com/2026/10/13/effective-governance-in-behavioral-healthcare-organizations/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-10-13T20:02:35+00:00",
+    "summary": "<p>As pressures on behavioral healthcare organizations mount, operational complexity compounds with it. With added payer scrutiny, increased regulation and persistent workforce issues, the need to ensure operational compliance and efficiency has never been greater. As healthcare leaders, we respond to more regulation with more policies, and organizational complexity goes up. This increases the operational risk [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/10/13/effective-governa",
+    "topics": [
+      "mental-health",
+      "policy-and-regulation"
+    ],
+    "first_seen": "2026-10-14T15:45:58.281732+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12379",
+    "title": "Behavioral Health Compliance Platform Brellium Raises $23M to Expand AI Auditing",
+    "link": "https://bhbusiness.com/2026/10/13/behavioral-health-compliance-platform-brellium-raises-23m-to-expand-ai-auditing/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-10-13T19:46:29+00:00",
+    "summary": "<p>Brellium, a healthcare billing compliance software provider serving mental health and autism providers, has raised $23 million. The investment firms Left Lane Capital and First Round Capital led the round. Digital Health Venture Partners also joined the funding round. The new cash will help Brellium expand into new segments of healthcare and parts of the [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/10/13/behavioral-health-compliance-platform-brellium-raises-23m-to-expand-ai-",
+    "topics": [
+      "mental-health",
+      "deals-and-ma"
+    ],
+    "first_seen": "2026-10-14T15:45:58.281778+00:00"
+  },
+  {
     "id": "https://www.psychiatrictimes.com/view/formulations-matter-the-approval-of-olanzapine-extended-release-injectable-suspension-for-schizophrenia",
     "title": "Formulations Matter: The Approval of Olanzapine Extended-Release Injectable Suspension for Schizophrenia",
     "link": "https://www.psychiatrictimes.com/view/formulations-matter-the-approval-of-olanzapine-extended-release-injectable-suspension-for-schizophrenia",
