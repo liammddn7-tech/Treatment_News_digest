@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://bhbusiness.com/?p=12475",
+    "title": "Announcing the Winners of the Inaugural Product of the Year Awards",
+    "link": "https://bhbusiness.com/2026/11/02/announcing-the-winners-of-the-inaugural-product-of-the-year-awards/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-11-02T18:29:58+00:00",
+    "summary": "<p>Arrowfly and Behavioral Health Business (BHB) are proud to announce the winners of the inaugural Product of the Year (POY) Awards. The BHB POY Awards recognize innovative, evidence-based products, solutions and technologies that deliver real-world impact by improving the quality of life, care, safety, and operational effectiveness across the behavioral health industry. Earlier this year, [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/11/02/announcing-the-winners-of-the-inaugur",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-11-02T20:42:20.972961+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/presenting-our-november-2026-theme-emergency-psychiatry",
+    "title": "Presenting Our November 2026 Theme: Emergency Psychiatry",
+    "link": "https://www.psychiatrictimes.com/view/presenting-our-november-2026-theme-emergency-psychiatry",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-02T14:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-11-02T20:42:22.102570+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/discontinuing-antidepressants-in-mdd-timing-tapering-and-relapse",
+    "title": "Discontinuing Antidepressants in MDD: Timing, Tapering, and Relapse",
+    "link": "https://www.psychiatrictimes.com/view/discontinuing-antidepressants-in-mdd-timing-tapering-and-relapse",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-02T13:05:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-11-02T20:42:22.102608+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/partial-response-in-mdd-optimize-switch-combine-or-augment",
+    "title": "Partial Response in MDD: Optimize, Switch, Combine, or Augment",
+    "link": "https://www.psychiatrictimes.com/view/partial-response-in-mdd-optimize-switch-combine-or-augment",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-02T13:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-11-02T20:42:22.102635+00:00"
+  },
+  {
     "id": "https://www.psychiatrictimes.com/view/how-does-menopause-affect-the-treatment-of-serious-mental-illness",
     "title": "How Does Menopause Affect the Treatment of Serious Mental Illness?",
     "link": "https://www.psychiatrictimes.com/view/how-does-menopause-affect-the-treatment-of-serious-mental-illness",
@@ -232,6 +274,50 @@
       "substance-use-disorder"
     ],
     "first_seen": "2026-10-29T17:22:16.070908+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18734",
+    "title": "Research on \u201cCircadian Depression\u201d May Lead to Tailored Treatment for Sufferers",
+    "link": "https://mindsitenews.org/2026/10/28/circadian-rhythm-may-play-a-role-in-depression-and-treatment/",
+    "source": "MindSite News",
+    "published_at": "2026-10-28T16:30:41+00:00",
+    "summary": "A new study identifies circadian depression, suggesting that disrupted sleep patterns and body clocks may influence depression symptoms and antidepressant response.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-11-02T20:42:23.290703+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18732",
+    "title": "Training Spanish-Speaking Doulas on How to Boost Maternal Mental Health",
+    "link": "https://mindsitenews.org/2026/10/28/spanish-speaking-doulas-help-navigate-maternal-health/",
+    "source": "MindSite News",
+    "published_at": "2026-10-28T16:19:08+00:00",
+    "summary": "A Hartford program trains Spanish-speaking doulas to support Latina mothers through pregnancy, childbirth and postpartum mental health challenges.",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-11-02T20:42:23.290732+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18730",
+    "title": "The Less Visible AI Harm That No One is Measuring",
+    "link": "https://mindsitenews.org/2026/10/28/ai-chatbots-may-increase-social-isolation/",
+    "source": "MindSite News",
+    "published_at": "2026-10-28T16:10:47+00:00",
+    "summary": "Researchers warn that AI chatbots may contribute to loneliness and social isolation by replacing human relationships",
+    "topics": [],
+    "first_seen": "2026-11-02T20:42:23.290757+00:00"
+  },
+  {
+    "id": "https://mindsitenews.org/?p=18726",
+    "title": "How AI Is Erasing Our Core Relationships",
+    "link": "https://mindsitenews.org/2026/10/28/newsletter-ai-chatbots-may-increase-social-isolation/",
+    "source": "MindSite News",
+    "published_at": "2026-10-28T16:05:33+00:00",
+    "summary": "Researchers warn that AI chatbots may contribute to loneliness and social isolation by replacing human relationships, calling for better oversight and research.",
+    "topics": [],
+    "first_seen": "2026-11-02T20:42:23.290784+00:00"
   },
   {
     "id": "https://www.psychiatrictimes.com/view/food-noise-and-glp-1-drugs-what-research-reveals-about-motivation-and-appetitive-drive",
@@ -2493,26 +2579,6 @@
     "first_seen": "2026-10-04T15:43:32.939095+00:00"
   },
   {
-    "id": "https://www.psychiatrictimes.com/view/how-to-uncover-covert-medication-nonadherence-in-serious-mental-illness",
-    "title": "How to Uncover Covert Medication Nonadherence in Serious Mental Illness",
-    "link": "https://www.psychiatrictimes.com/view/how-to-uncover-covert-medication-nonadherence-in-serious-mental-illness",
-    "source": "Psychiatric Times",
-    "published_at": "2026-10-03T13:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-10-03T15:06:55.265719+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/esketamine-off-label-ketamine-and-the-regulatory-gap-a-conversation-with-lisa-harding-md",
-    "title": "Esketamine, Off-Label Ketamine, and the Regulatory Gap: A Conversation With Lisa Harding, MD",
-    "link": "https://www.psychiatrictimes.com/view/esketamine-off-label-ketamine-and-the-regulatory-gap-a-conversation-with-lisa-harding-md",
-    "source": "Psychiatric Times",
-    "published_at": "2026-10-03T01:38:38+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-10-03T15:06:55.265766+00:00"
-  },
-  {
     "id": "https://mindsitenews.org/?p=18239",
     "title": "Future Friends, a Concert Series to Reduce Loneliness and Increase Belonging",
     "link": "https://mindsitenews.org/2026/10/02/future-friends-concert-series-combating-college-loneliness/",
@@ -2523,52 +2589,6 @@
       "mental-health"
     ],
     "first_seen": "2026-10-04T15:43:34.063510+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=12314",
-    "title": "Headway Faces Backlash After Unveiling New Opt-In Patient Marketplace With $10 Per-Session Fee",
-    "link": "https://bhbusiness.com/2026/10/02/headway-faces-backlash-after-unveiling-new-opt-in-patient-marketplace-with-10-per-session-fee/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-10-02T20:17:00+00:00",
-    "summary": "<p>Venture-backed digital mental health platform Headway yesterday announced a new opt-in marketplace offering for clinicians in response to requests to connect with more patients. For every session initiated through the new marketplace option, the company will now charge clinicians a $9.99 fee per session. In response, multiple clinicians on its platform and others across the [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/10/02/headway-faces-backlash-after-unveiling-new-opt-in-p",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-10-03T15:06:54.133904+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/adjunctive-medication-selection-in-depression-to-match-each-patient",
-    "title": "Adjunctive Medication Selection in Depression To Match Each Patient",
-    "link": "https://www.psychiatrictimes.com/view/adjunctive-medication-selection-in-depression-to-match-each-patient",
-    "source": "Psychiatric Times",
-    "published_at": "2026-10-02T20:15:00+00:00",
-    "summary": "",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-10-03T15:06:55.265803+00:00"
-  },
-  {
-    "id": "https://bhbusiness.com/?p=12311",
-    "title": "Layoffs, Closures Planned at Newport Healthcare, Clarvida, Comprehensive Life Resources",
-    "link": "https://bhbusiness.com/2026/10/02/layoffs-closures-planned-at-newport-healthcare-clarvida-comprehensive-life-resources/",
-    "source": "Behavioral Health Business",
-    "published_at": "2026-10-02T20:04:56+00:00",
-    "summary": "<p>A slew of youth behavioral health programs are closing and laying off staff.\u00a0\u00a0 These developments at Comprehensive Life Resources, Newport Healthcare and Clarvida impact four locations and a total of 227 staff, according to public notices.\u00a0 The last day of operations for Comprehensive Life Resources&#8217; Pearl Youth Residence in Tacoma, Washington, will be Nov. 21. [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/10/02/layoffs-closures-planned-at-newport-healthcare-clarvida-co",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-10-03T15:06:54.133995+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/excessive-daytime-sleepiness-what-to-look-out-for-in-assessment",
-    "title": "Excessive Daytime Sleepiness: What to Look Out For in Assessment",
-    "link": "https://www.psychiatrictimes.com/view/excessive-daytime-sleepiness-what-to-look-out-for-in-assessment",
-    "source": "Psychiatric Times",
-    "published_at": "2026-10-02T20:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-10-03T15:06:55.265834+00:00"
   },
   {
     "id": "https://mindsitenews.org/?p=18236",
@@ -2582,26 +2602,6 @@
       "policy-and-regulation"
     ],
     "first_seen": "2026-10-04T15:43:34.063554+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/before-treating-excessive-sleepiness-make-sure-you-know-what-youre-treating",
-    "title": "Before Treating Excessive Sleepiness, Make Sure You Know What You're Treating",
-    "link": "https://www.psychiatrictimes.com/view/before-treating-excessive-sleepiness-make-sure-you-know-what-youre-treating",
-    "source": "Psychiatric Times",
-    "published_at": "2026-10-02T16:52:37+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-10-03T15:06:55.265866+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/real-world-evidence-and-long-term-data-for-lybalvi-and-aristada",
-    "title": "Real-World Evidence and Long-Term Data for Lybalvi and Aristada",
-    "link": "https://www.psychiatrictimes.com/view/real-world-evidence-and-long-term-data-for-lybalvi-and-aristada",
-    "source": "Psychiatric Times",
-    "published_at": "2026-10-02T15:00:00+00:00",
-    "summary": "",
-    "topics": [],
-    "first_seen": "2026-10-03T15:06:55.265895+00:00"
   },
   {
     "id": "https://mindsitenews.org/?p=18233",
@@ -2650,29 +2650,5 @@
       "mental-health"
     ],
     "first_seen": "2026-10-04T15:43:34.063735+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/does-mri-based-targeting-improve-outcomes-with-accelerated-tms-for-depression-",
-    "title": "Does MRI-Based Targeting Improve Outcomes With Accelerated TMS for Depression?",
-    "link": "https://www.psychiatrictimes.com/view/does-mri-based-targeting-improve-outcomes-with-accelerated-tms-for-depression-",
-    "source": "Psychiatric Times",
-    "published_at": "2026-10-01T13:00:00+00:00",
-    "summary": "",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-10-03T15:06:55.266118+00:00"
-  },
-  {
-    "id": "https://www.psychiatrictimes.com/view/rapid-remission-in-treatment-resistant-depression-with-accelerated-tms",
-    "title": "Rapid Remission in Treatment-Resistant Depression With Accelerated TMS",
-    "link": "https://www.psychiatrictimes.com/view/rapid-remission-in-treatment-resistant-depression-with-accelerated-tms",
-    "source": "Psychiatric Times",
-    "published_at": "2026-09-30T20:00:00+00:00",
-    "summary": "",
-    "topics": [
-      "mental-health"
-    ],
-    "first_seen": "2026-10-03T15:06:55.266287+00:00"
   }
 ]
