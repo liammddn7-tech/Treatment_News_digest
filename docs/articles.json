@@ -1,5 +1,93 @@
 [
   {
+    "id": "https://www.psychiatrictimes.com/view/the-ozempic-dilemma-promises-and-pitfalls-in-psychiatry",
+    "title": "The Ozempic Dilemma: Promises and Pitfalls in Psychiatry",
+    "link": "https://www.psychiatrictimes.com/view/the-ozempic-dilemma-promises-and-pitfalls-in-psychiatry",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-04T17:52:39+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-11-04T18:32:56.571754+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/podcast-campus-naloxone-access-and-destigmatizing-substance-use-disorders",
+    "title": "Podcast: Campus Naloxone Access and Destigmatizing Substance Use Disorders",
+    "link": "https://www.psychiatrictimes.com/view/podcast-campus-naloxone-access-and-destigmatizing-substance-use-disorders",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-04T15:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "substance-use-disorder"
+    ],
+    "first_seen": "2026-11-04T18:32:56.571788+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/brain-trust-bessel-van-der-kolk-md-on-complex-ptsd-attachment-and-the-limits-of-pharmacotherapy",
+    "title": "Brain Trust: Bessel van der Kolk, MD, on Complex PTSD, Attachment, and the Limits of Pharmacotherapy",
+    "link": "https://www.psychiatrictimes.com/view/brain-trust-bessel-van-der-kolk-md-on-complex-ptsd-attachment-and-the-limits-of-pharmacotherapy",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-04T14:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-11-04T18:32:56.571809+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/why-generic-antidepressant-cycling-falls-short-early-augmentation-and-td-risk",
+    "title": "Why Generic Antidepressant Cycling Falls Short: Early Augmentation and TD Risk",
+    "link": "https://www.psychiatrictimes.com/view/why-generic-antidepressant-cycling-falls-short-early-augmentation-and-td-risk",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-04T13:05:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-11-04T18:32:56.571828+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/switch-or-stay-knowing-when-a-partial-response-is-worth-building-on",
+    "title": "Switch or Stay? Knowing When a Partial Response Is Worth Building On",
+    "link": "https://www.psychiatrictimes.com/view/switch-or-stay-knowing-when-a-partial-response-is-worth-building-on",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-04T13:00:00+00:00",
+    "summary": "",
+    "topics": [],
+    "first_seen": "2026-11-04T18:32:56.571846+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12499",
+    "title": "Forta Health To Shutter All ABA Services In Early 2027",
+    "link": "https://bhbusiness.com/2026/11/03/forta-health-to-shutter-all-aba-services-in-early-2027/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-11-03T21:18:29+00:00",
+    "summary": "<p>The digital autism therapy startup known for its controversial parent-led behavior technician model will end all applied behavior analysis (ABA) services by Jan. 15, 2027. The company underwent several pivots since its founding in 2021. Originally, the San Francisco-based company leaned into virtual ABA therapy overseen by BCBAs and provided by parents who would become [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/11/03/forta-health-to-shutter-all-aba-services-in-early-2027/\"",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-11-04T18:32:55.044609+00:00"
+  },
+  {
+    "id": "https://bhbusiness.com/?p=12496",
+    "title": "EHR Designs Left Behavioral Health in the Dust. Will AI Help Leapfrog Traditional Issues?",
+    "link": "https://bhbusiness.com/2026/11/03/ehr-designs-left-behavioral-health-in-the-dust-will-ai-help-leapfrog-traditional-issues/",
+    "source": "Behavioral Health Business",
+    "published_at": "2026-11-03T21:03:55+00:00",
+    "summary": "<p>This is an exclusive BHB+ story. Behavioral health was left out of conversations when the healthcare industry began developing electronic health records (EHRs). But in the new era of rapid artificial intelligence advancements, the field may finally reach a solution it has spent decades trying to refine. While many EHR solutions exist and have been [&#8230;]</p>\n<p>The post <a href=\"https://bhbusiness.com/2026/11/03/ehr-designs-left-behavioral-health-in-the-dust-will-ai-help-leapfrog-tradition",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-11-04T18:32:55.044662+00:00"
+  },
+  {
+    "id": "https://www.psychiatrictimes.com/view/artificial-intelligence-in-psychiatric-clinical-trials-opportunities-and-limitations",
+    "title": "Artificial Intelligence in Psychiatric Clinical Trials: Opportunities and Limitations",
+    "link": "https://www.psychiatrictimes.com/view/artificial-intelligence-in-psychiatric-clinical-trials-opportunities-and-limitations",
+    "source": "Psychiatric Times",
+    "published_at": "2026-11-03T19:00:00+00:00",
+    "summary": "",
+    "topics": [
+      "mental-health"
+    ],
+    "first_seen": "2026-11-04T18:32:56.571864+00:00"
+  },
+  {
     "id": "https://www.healthcaredive.com/news/multicare-samaritan-complete-merger/873595/",
     "title": "MultiCare, Samaritan complete merger",
     "link": "https://www.healthcaredive.com/news/multicare-samaritan-complete-merger/873595/",
